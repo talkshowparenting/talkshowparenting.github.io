@@ -2636,6 +2636,7 @@ fieldset[disabled] a.btn {
     font-size: 1.25rem;
     line-height: 1.5;
     border-radius: .3rem
+    width: 100%
 }
 .btn-group-sm>.btn,
 .btn-sm {
