@@ -26,6 +26,7 @@
   --danger: #dc3545;
   --light: #f8f9fa;
   --dark: #343a40;
+  --pinky: #ee3377;
   --breakpoint-xs: 0;
   --breakpoint-sm: 576px;
   --breakpoint-md: 768px;
@@ -5673,8 +5674,13 @@ a.bg-primary:focus, a.bg-primary:hover {
 }
 
 .bg-secondary {
-  background-color: #868e96 !important;
+  background-color: #ee3377 !important;
 }
+
+.bg-pinky {
+  background-color: #ee3377 !important;
+}
+
 
 a.bg-secondary:focus, a.bg-secondary:hover {
   background-color: #6c757d !important;
